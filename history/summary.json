@@ -22,19 +22,19 @@
     "url": "https://blog.scidroid.me",
     "icon": "https://favicons.githubusercontent.com/blog.scidroid.me",
     "slug": "extravaganzza-blog",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
-    "time": 336,
-    "timeDay": 336,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "status": "up",
+    "uptime": "89.99%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "89.99%",
+    "time": 391,
+    "timeDay": 391,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2022-02-05": 1
+      "2022-02-05": 13
     }
   },
   {
