@@ -22,18 +22,20 @@
     "url": "https://blog.scidroid.me",
     "icon": "https://favicons.githubusercontent.com/blog.scidroid.me",
     "slug": "extravaganzza-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 336,
     "timeDay": 336,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 1
+    }
   },
   {
     "name": "API endpoint",
