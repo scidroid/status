@@ -40,7 +40,7 @@
     "url": "https://scidroid.me/api/view/test",
     "icon": "https://favicons.githubusercontent.com/scidroid.me",
     "slug": "api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2949,
     "timeMonth": 2311,
     "timeYear": 2311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "Links / CDN page",
