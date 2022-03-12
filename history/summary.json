@@ -40,19 +40,19 @@
     "url": "https://scidroid.me/api/view/test",
     "icon": "https://favicons.githubusercontent.com/scidroid.me",
     "slug": "api-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2507,
-    "timeDay": 2619,
-    "timeWeek": 2874,
-    "timeMonth": 2758,
-    "timeYear": 2507,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2493,
+    "timeDay": 2293,
+    "timeWeek": 2760,
+    "timeMonth": 2732,
+    "timeYear": 2493,
     "dailyMinutesDown": {
-      "2022-03-12": 0
+      "2022-03-12": 18
     }
   },
   {
