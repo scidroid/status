@@ -4,9 +4,9 @@
     "url": "https://scidroid.co",
     "icon": "https://favicons.githubusercontent.com/scidroid.co",
     "slug": "website-blog-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 200,
     "timeMonth": 166,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "API endpoint",
