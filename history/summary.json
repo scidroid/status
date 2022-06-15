@@ -62,35 +62,39 @@
     "url": "$EMAIL_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "email-sender-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 379,
-    "timeWeek": 737,
-    "timeMonth": 797,
-    "timeYear": 654,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 225,
+    "timeWeek": 654,
+    "timeMonth": 774,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "Automations API",
     "url": "$SPLITBEE_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "automations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 98,
-    "timeWeek": 376,
-    "timeMonth": 159,
-    "timeYear": 118,
-    "dailyMinutesDown": {}
+    "time": 117,
+    "timeDay": 60,
+    "timeWeek": 332,
+    "timeMonth": 155,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   }
 ]
