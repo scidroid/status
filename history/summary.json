@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "email-sender-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 648,
     "timeDay": 598,
     "timeWeek": 468,
     "timeMonth": 779,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-06-17": 2
+      "2022-06-17": 24
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "$SPLITBEE_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "automations-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 177,
-    "timeWeek": 103,
-    "timeMonth": 157,
-    "timeYear": 117,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 287,
+    "timeDay": 11770,
+    "timeWeek": 2429,
+    "timeMonth": 840,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 23
     }
   }
 ]
