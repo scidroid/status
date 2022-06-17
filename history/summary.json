@@ -62,10 +62,10 @@
     "url": "$EMAIL_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "email-sender-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 648,
@@ -73,16 +73,18 @@
     "timeWeek": 468,
     "timeMonth": 779,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 2
+    }
   },
   {
     "name": "Automations API",
     "url": "$SPLITBEE_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "automations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +93,8 @@
     "timeWeek": 103,
     "timeMonth": 157,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   }
 ]
