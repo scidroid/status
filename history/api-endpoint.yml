@@ -1,7 +1,7 @@
 url: https://scidroid.co/api/view/test
-status: down
-code: 504
-responseTime: 11200
-lastUpdated: 2022-06-22T18:59:14.440Z
+status: up
+code: 200
+responseTime: 7998
+lastUpdated: 2022-06-22T19:19:11.925Z
 startTime: Sat Feb 05 2022 15:52:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
