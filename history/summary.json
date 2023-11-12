@@ -4,7 +4,7 @@
     "url": "https://scidroid.co",
     "icon": "https://icons.duckduckgo.com/ip3/scidroid.co.ico",
     "slug": "website-blog-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 289,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2023-11-12": 0,
       "2023-07-26": 21
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/scidroid.co.ico",
     "slug": "api-endpoint",
     "status": "down",
-    "uptime": "74.74%",
+    "uptime": "74.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.48%",
+    "uptimeYear": "55.30%",
     "time": 4264,
     "timeDay": 275,
     "timeWeek": 1106,
     "timeMonth": 838,
     "timeYear": 3658,
     "dailyMinutesDown": {
-      "2023-11-12": 45,
+      "2023-11-12": 977,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
