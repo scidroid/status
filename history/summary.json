@@ -41,7 +41,7 @@
     "timeMonth": 29,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2024-04-05": 42,
+      "2024-04-05": 79,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
@@ -358,9 +358,9 @@
     "url": "https://s2.loli.net",
     "icon": "https://icons.duckduckgo.com/ip3/s2.loli.net.ico",
     "slug": "image-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -369,7 +369,9 @@
     "timeWeek": 471,
     "timeMonth": 665,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "Email sender API",
