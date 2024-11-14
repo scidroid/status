@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.13%",
-    "time": 1269,
-    "timeDay": 1842,
-    "timeWeek": 1865,
-    "timeMonth": 1685,
+    "uptimeYear": "99.41%",
+    "time": 1272,
+    "timeDay": 1762,
+    "timeWeek": 1851,
+    "timeMonth": 1687,
     "timeYear": 1615,
     "dailyMinutesDown": {
       "2024-10-22": 31,
-      "2023-11-16": 264,
-      "2023-11-15": 1440
+      "2023-11-16": 264
     }
   },
   {
@@ -27,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scidroid.co.ico",
     "slug": "api-endpoint",
     "status": "down",
-    "uptime": "47.62%",
+    "uptime": "47.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 243,
-    "timeDay": 8,
+    "time": 242,
+    "timeDay": 23,
     "timeWeek": 32,
-    "timeMonth": 34,
+    "timeMonth": 33,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2024-11-13": 56,
+      "2024-11-14": 56,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -401,8 +401,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   },
   {
@@ -417,8 +416,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 352,
-    "timeDay": 262,
-    "timeWeek": 287,
+    "timeDay": 212,
+    "timeWeek": 275,
     "timeMonth": 413,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -437,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1443,
-    "timeDay": 265,
-    "timeWeek": 1608,
-    "timeMonth": 1478,
-    "timeYear": 1485,
+    "time": 1439,
+    "timeDay": 395,
+    "timeWeek": 1322,
+    "timeMonth": 1483,
+    "timeYear": 1484,
     "dailyMinutesDown": {}
   },
   {
@@ -456,8 +455,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 229,
-    "timeWeek": 176,
+    "timeDay": 168,
+    "timeWeek": 178,
     "timeMonth": 190,
     "timeYear": 194,
     "dailyMinutesDown": {}
