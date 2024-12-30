@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1398,
-    "timeDay": 1704,
-    "timeWeek": 1867,
-    "timeMonth": 1740,
-    "timeYear": 1630,
+    "time": 1401,
+    "timeDay": 1634,
+    "timeWeek": 1831,
+    "timeMonth": 1732,
+    "timeYear": 1633,
     "dailyMinutesDown": {
       "2024-10-22": 31
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scidroid.co.ico",
     "slug": "api-endpoint",
     "status": "down",
-    "uptime": "45.55%",
+    "uptime": "45.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 159,
-    "timeDay": 16,
-    "timeWeek": 17,
+    "time": 156,
+    "timeDay": 21,
+    "timeWeek": 18,
     "timeMonth": 20,
     "timeYear": 27,
     "dailyMinutesDown": {
-      "2024-12-29": 62,
+      "2024-12-30": 59,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -399,8 +400,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 358,
-    "timeDay": 233,
-    "timeWeek": 705,
-    "timeMonth": 455,
-    "timeYear": 353,
+    "time": 356,
+    "timeDay": 199,
+    "timeWeek": 633,
+    "timeMonth": 453,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2024-05-01": 32,
       "2024-04-05": 134
@@ -435,11 +435,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 474,
-    "timeWeek": 1514,
-    "timeMonth": 1573,
-    "timeYear": 1530,
+    "time": 1483,
+    "timeDay": 2397,
+    "timeWeek": 1808,
+    "timeMonth": 1571,
+    "timeYear": 1535,
     "dailyMinutesDown": {}
   },
   {
@@ -454,10 +454,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 164,
-    "timeWeek": 183,
+    "timeDay": 153,
+    "timeWeek": 176,
     "timeMonth": 187,
-    "timeYear": 190,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   }
 ]
